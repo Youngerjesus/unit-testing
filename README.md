@@ -10,4 +10,6 @@
 
 - [단위 테스트 구조](document/%5BReview%5D_EP3_단위_테스트_구조.md)
 
+- [좋은 테스트의 4대요소](document/%5BReview%5D_EP4_좋은_테스트의_4대요소.md)
+
 
