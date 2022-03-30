@@ -12,4 +12,6 @@
 
 - [좋은 테스트의 4대요소](document/%5BReview%5D_EP4_좋은_테스트의_4대요소.md)
 
+- [목과 테스트 취약성](document/%5BReview%5D_EP5_목과_테스트_취약성.md)
+
 
