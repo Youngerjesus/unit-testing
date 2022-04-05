@@ -1,6 +1,6 @@
 # unit-testing
 
-단위 테스트 (Unit Testing) 책을 읽고 정리한 레파지토리 입니다.
+[단위 테스트 (Unit Test)](http://www.yes24.com/Product/Goods/104084175) 책을 읽고 정리한 레파지토리 입니다.
 
 ### [목차]
 
@@ -17,4 +17,6 @@
 - [가치 있는 단위 테스트를 위한 리팩터링](document/%5BReview%5D_EP7_가치_있는_단위_테스트를_위한_리팩터링.md)
 
 - [통합 테스트를 하는 이유](document/%5BReview%5D_EP8_통합_테스트를_하는_이유.md)
+
+- [목 처리에 대한 모범사례](document/EP9_목_처리에_대한_모범사례.md)
 
